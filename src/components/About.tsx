@@ -17,7 +17,7 @@ export default function About() {
             uma vaga na prestigiosa **Semana EAT (Escola Avançada de Tecnologia)**.
           </p>
           <p className="text-gray-400 mb-12 leading-relaxed text-lg">
-            Nossa missão é levar o nome do Brasil ao topo das competições tecnológicas, enquanto desenvolvemos 
+            Nossa missão é chegar topo das competições tecnológicas, enquanto desenvolvemos 
             projetos open-source e promovemos a educação tecnológica em diversos estados.
           </p>
           

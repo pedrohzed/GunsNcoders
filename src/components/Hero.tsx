@@ -29,7 +29,7 @@ export default function Hero() {
           </h1>
           
           <p className="text-lg md:text-xl text-gray-400 mb-12 leading-relaxed">
-            🥇 Nossa equipe conquistou a Medalha de Ouro na OBT e agora temos a oportunidade de representar o Brasil na <span className="text-white font-semibold">Escola Avançada de Tecnologia (EAT)</span> — um evento de alto nível científico e tecnológico que ocorrerá de 27 de julho a 1º de agosto de 2026 em São José dos Campos, SP. Contamos com a ajuda de cada um!
+            🥇 Nossa equipe conquistou a Medalha de Ouro na OBT e agora temos a oportunidade de participar da <span className="text-white font-semibold">Escola Avançada de Tecnologia (EAT)</span> — um evento de alto nível científico e tecnológico que ocorrerá de 27 de julho a 1º de agosto de 2026 em São José dos Campos, SP. Contamos com a ajuda de cada um para tornar esse sonho realidade!
           </p>
 
           <div className="flex flex-wrap justify-center gap-4 mb-16">
