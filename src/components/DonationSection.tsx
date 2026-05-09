@@ -8,7 +8,7 @@ export default function DonationSection() {
   const [copied, setCopied] = useState(false);
   const [currentAmount, setCurrentAmount] = useState(0);
   const goalAmount = 17000;
-  const pixKey = '84986170524';
+  const pixKey = 'gunsncoders@gmail.com';
   const qrCodeUrl = '/qrcode.png';
 
   const progress = (currentAmount / goalAmount) * 100;
@@ -105,7 +105,7 @@ export default function DonationSection() {
             </div>
 
             <div className="w-full">
-              <div className="text-xs text-primary font-bold uppercase mb-2">Chave PIX (Celular)</div>
+              <div className="text-xs text-primary font-bold uppercase mb-2">Chave PIX (E-mail)</div>
               <div className="flex items-center gap-2 p-1 pl-4 bg-black/40 rounded-2xl border border-white/5">
                 <span className="flex-1 text-left font-mono text-sm truncate">{pixKey}</span>
                 <button
